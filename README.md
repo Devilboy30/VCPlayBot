@@ -5,7 +5,7 @@ The easiest way to deploy this Bot
 
 - Support Channel :- [Awesome] (https://t.me/falcanbot30)
 
-- Support Group :- [Awesome Support](https://t.me/tamilchat_black_lovers)
+- Support Group :- [Awesome Support] (https://t.me/tamilchat_black_lovers)
 
 ```
 Please fork this repository don't import code
