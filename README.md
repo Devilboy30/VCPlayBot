@@ -1,12 +1,12 @@
 # How To Host
 The easiest way to deploy this Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/QueenArzoo/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Devilboy30/VCPlayBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-- Support Channel :- [Awesome Bot](http://t.me/LaylaList)
+- Support Channel :- [Awesome] (https://t.me/falcanbot30)
 
-- Support Group :- [Awesome Support](http://t.me/AwesomeSupport)
-
+- Support Group :- [Awesome Support](https://t.me/
+tamilchat_black_lovers)
 
 ```
 Please fork this repository don't import code
